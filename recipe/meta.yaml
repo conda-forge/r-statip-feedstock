@@ -47,7 +47,7 @@ test:
 
 about:
   home: https://github.com/paulponcet/statip
-  license: GPL-3
+  license: GPL-3.0-only
   summary: 'A collection of miscellaneous statistical functions for  probability distributions:
     dbern(), pbern(), qbern(), rbern() for  the Bernoulli distribution, and distr2name(),
     name2distr() for  distribution names;  probability density estimation: densityfun();  most
